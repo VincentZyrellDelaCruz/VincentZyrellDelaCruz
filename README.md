@@ -10,7 +10,9 @@ https://courses.cognitiveclass.ai/certificates/a6d46e979d324b75a1b24586b1a4589c#
 <ul>
   <li>UI/UX Design</li>
   <li>Web Design</li>
-  <li>Basic SQL</li>
+  <li>Database Management</li>
+  <li>Data Modeling</li>
+  <li>Problem-Solving</li>
   <li>Intermediate Programming</li>
   <li>Collaboration</li>
 </ul>
